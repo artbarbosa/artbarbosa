@@ -1,7 +1,6 @@
 ### Olá, bem vindo(a) meu espaço! 😁
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Flutter e Kotlin
 - 💬 Cursando Engenharia da computação
 - 📩 contato: arthur.bos@hotmail.com
 
