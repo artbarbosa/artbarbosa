@@ -1,22 +1,26 @@
-### Olá, bem vindo(a) meu espaço! 😁
-
-- 🔭 Hoje trabalho com desenvolvimento mobile
-- 💬 Cursando Engenharia da computação
-- 📩 contato: arthur.bos@hotmail.com
-
 <div align="center">
-  <a href="https://github.com/artbarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artbarbosa&layout=compact&langs_count=7&theme=dracula"/>
+
+# Arthur Barbosa
+
+**Software Engineer**
+
+Mobile · Web · Backend · Cloud · AI
+
+[LinkedIn](https://www.linkedin.com/in/arthur-barbosa-oliveira/) · [Email](mailto:arthur.bos@hotmail.com)
+
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Art-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Art-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Art-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-   <img align="center" alt="Art-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Art-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Art-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
- 
+
+---
+
+I build software across **mobile, web and backend** — from apps to APIs and the infrastructure behind them.
+
+Most of my day-to-day is around **fintech, integrations and production systems**. I like pragmatic architecture, clear trade-offs and solving problems that only really show up in production.
+
+```text
+mobile   Flutter · React Native · Swift · Kotlin
+web      React · TypeScript
+backend  Node.js · .NET / C# · Go · PHP / Laravel
+         REST APIs · Microservices · Messaging
+cloud    Azure · Docker · Kubernetes / AKS · CI/CD
+azure    Service Bus · Blob Storage · Key Vault · API Management · Synapse
+data     PostgreSQL · SQL Server · MySQL · MongoDB
