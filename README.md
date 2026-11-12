@@ -1,40 +1,34 @@
-<div align="center">
-
 # Arthur Barbosa
 
-**Mobile Software Engineer**
+**Mobile Software Engineer** · Flutter, with native Swift and Kotlin modules
 
-Flutter · Swift · Kotlin — critical financial journeys in production
+I build apps that move money, and I work on what goes wrong in them: the
+response that gets lost, the process the OS kills mid-flight, the device with
+no network.
 
-[LinkedIn](https://www.linkedin.com/in/arthur-barbosa-oliveira/) · [Email](mailto:arthur.bos@hotmail.com)
-
-</div>
-
----
-
-I build apps that move money — and I work on what goes wrong in them: the
-response that gets lost, the process the OS kills mid-flight, the device with no
-network, the clock that is off.
-
-Six years shipping to production across fintech, banking, streaming and travel.
-The last two and a half in regulated financial journeys: Pix, POS, boletos,
-statements.
+Six years shipping to production across fintech, streaming, travel and field
+operations. Two and a half of them on regulated payment journeys at Celcoin:
+Pix, POS, boletos, statements. Today I am a full stack engineer (C#/.NET) at
+Juvo.
 
 ### What I do best
 
-- **Flutter and Dart** — modular architecture by domain, offline-first, testing
-- **Native modules in Swift and Kotlin** through platform channels — biometrics,
+- **Flutter and Dart**: modular architecture by domain, offline-first, testing
+- **Native modules in Swift and Kotlin** through platform channels: biometrics,
   cryptography, camera, POS peripherals
-- **Correctness under partial failure** — idempotency, send queues, conflict
-  resolution, reconciliation
-- **Production support of financial flows** — logs, incident analysis, fixing
+- **Correctness under partial failure**: idempotency, send queues,
+  reconciliation
+- **Production support of financial flows**: logs, incident analysis, fixing
   journeys people depend on
 
-I also work with .NET / ASP.NET Core, React / TypeScript and Azure when the
-product calls for it.
+### Selected work
 
-### About this profile
+- [flutter-outbox](https://github.com/artbarbosa/flutter-outbox): a durable
+  outbox for Dart and Flutter. Stable operation identity, persistence before
+  sending and reconciliation after an uncertain response, with 104
+  deterministic failure-injection tests you can run from a clean clone.
 
-Most of my work over the last four years is private, in regulated financial
-systems. The contribution graph is real; the repositories behind it are not
-mine to open.
+Most of my professional work is private. The contribution graph is real; the
+repositories behind it are not mine to open.
+
+[LinkedIn](https://www.linkedin.com/in/arthur-barbosa-oliveira/) · [Email](mailto:arthur.bos@hotmail.com)
